@@ -50,7 +50,7 @@ Raven Tongol </h1>
       <ul class="list-disc list-inside space-y-1 text-slate-700">
         <li>Being with my girlfriend.</li>
         <li>Family day on sunday always.</li>
-        <li></li>
+        <li>I love my family</li>
       </ul>
     </section>
 
